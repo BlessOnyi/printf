@@ -1,4 +1,3 @@
-kkj
 #include "main.h"
 
 /**
